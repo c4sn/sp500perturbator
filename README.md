@@ -5,7 +5,7 @@ This repo contains the code for my (Gerardo Castagno) master thesis in Physics o
 
 The master thesis focuses on developing an AI model designed to generate profitable investment strategies that outperform market benchmarks. Specifically, the model constructs a portfolio of 500 US equities, determining optimal positions and allocations for each stock. The goal is to maximize returns while minimizing risk and transaction costs.
 
-A link to the thesis will be made available as soon as Politecnico di Torino uploads it on its archive.
+The thesis can be freely accessed through this [link](http://webthesis.biblio.polito.it/id/eprint/33076).
 
 The repo contains 2 notebooks:
 - "dataprep" containing the code used to create the LSTM matrices used to train and test the proposed AI model;
